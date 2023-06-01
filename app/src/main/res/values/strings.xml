@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="search_city">Enter City here</string>
+    <string name="search">Search</string>
+    <string name="error_text">Something went wrong. Please check the city name and try again.</string>
+    <string name="last_searched_city">Last Searched City</string>
+</resources>
